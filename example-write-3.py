@@ -19,5 +19,3 @@ miCursor.executemany("INSERT INTO PRODUCTOS_EXPANSIVO VALUES(NULL,?,?,?)",produc
 miConexion.commit() 
 
 miConexion.close()#Cerrar conexion
-
-#UNIQUE: https://www.youtube.com/watch?v=m_FzVf9JTV8&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS&index=58
